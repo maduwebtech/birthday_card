@@ -76,8 +76,8 @@ birthday-wishes-generator/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/birthday-wishes-generator.git
-cd birthday-wishes-generator
+git clone https://github.com/maduwebtech/birthday_card
+cd birthday_card
 ```
 
 2. **Install dependencies**
